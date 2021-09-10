@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "ThreeRocksPrototipe",
+    "slug": "ThreeRocksPrototipe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/tiimob_logo_trans.png",
+    "splash": {
+      "image": "./assets/tiimob_logo_trans.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#F66411"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F66411"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
